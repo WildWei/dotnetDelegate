@@ -1,1 +1,3 @@
 # dotnetDelegate
+
+C# Delegate example
